@@ -1,0 +1,10 @@
+index,desc,Strongly Disagree,Disagree,Neutral,Agree,Strongly Agree,NA
+0,"The smart contracts I develop are not prone to security attacks. [D1]",11,26,44,43,14,18
+1,"Smart contract security is not my responsibility. [D2]",60,53,13,17,7,6
+2,"Smart contract security is a burden on top of my main responsibilities. [D3]",20,44,37,35,12,8
+3,"In my team, it is more important to deliver features on time than to address smart contract security. [D4]",41,36,38,24,12,5
+4,"My team does not have the budget to address smart contract security. [D5]",40,33,29,35,9,10
+5,"My company does not have a formal process for smart contract security. [D6]",30,27,34,43,10,12
+6,"It is unlikely that our smart contract will be attacked. [D7]",33,52,30,18,11,12
+7,"It is easy to mitigate the negative impact of a security breach. [D8]",33,52,37,19,4,11
+8,"Available security tools for smart contracts are not useful. [D9]",18,35,43,37,5,18

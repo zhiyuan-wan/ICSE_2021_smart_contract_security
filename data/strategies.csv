@@ -1,0 +1,12 @@
+index,desc,Very Rarely,Rarely,Sometimes,Often,Very Often,NA
+0,Threat Assessment [S1],7,29,49,37,20,14
+1,Code Style Checking [S2],6,11,41,43,47,8
+2,Code Review [S3],3,8,31,46,60,8
+3,Static Analysis [S4],9,22,32,40,42,11
+4,Formal Verification [S5],21,29,39,33,21,13
+5,Vulnerability Scan [S6],14,32,38,35,24,13
+6,Fuzzing [S7],23,43,35,30,10,15
+7,Security Testing [S8],9,24,44,43,24,12
+8,External Auditing [S9],22,34,38,21,26,15
+9,Runtime Monitoring [S10],12,25,44,37,23,15
+10,Code Reuse [S11],8,20,31,38,44,15

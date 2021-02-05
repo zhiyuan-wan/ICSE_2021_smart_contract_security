@@ -1,0 +1,7 @@
+index,desc,Not at All,Slightly,Moderately,Very,Extremely,NA
+0,Requirement,10,20,41,35,40,10
+1,Design,5,14,41,47,39,10
+2,Construction,2,11,37,56,39,11
+3,Testing,2,10,37,52,45,10
+4,Deployment,7,9,48,35,45,12
+5,Maintenance,6,11,53,36,38,12

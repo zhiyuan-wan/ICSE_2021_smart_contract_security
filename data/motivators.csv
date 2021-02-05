@@ -1,0 +1,12 @@
+index,desc,Strongly Disagree,Disagree,Neutral,Agree,Strongly Agree,NA
+0,"Software security is in my company's culture. [M1]",2,6,27,57,55,9
+1,"My company mandates security practices in smart contract development. [M2]",5,2,32,62,41,14
+2,"My company is audited for smart contract security by an external entity. [M3]",8,15,39,40,36,18
+3,"My company would lose customers in case of a security breach. [M4]",2,4,24,54,62,10
+4,"Security breaches would hurt my company's reputation. [M5]",4,3,12,48,81,8
+5,"Software security is a shared responsibility by all those involved in the development lifecycle. [M6]",3,4,15,49,76,9
+6,"I see software security as my responsibility. [M7]",3,5,14,59,69,6
+7,"I care about my users' experience in security and privacy. [M8]",2,1,15,54,77,7
+8,"Customers would lose money in case of a security breach. [M9]",5,5,21,44,73,8
+9,"The deployed smart contracts are immutable. [M10]",11,29,22,36,52,6
+10,"It is challenging to detect and trace attacks on smart contracts deployed to blockchains. [M11]",7,15,22,59,45,8

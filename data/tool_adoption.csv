@@ -1,0 +1,12 @@
+index,desc,Strongly Disagree,Disagree,Neutral,Agree,Strongly Agree,NA
+0,Run Fast,12,8,47,60,20,9
+1,Extensible,4,8,43,70,21,10
+2,Easy To Use,1,3,29,71,43,9
+3,Highly Automated,2,3,27,61,54,9
+4,Actively Maintained,2,1,20,55,70,8
+5,Cost Little Money,4,6,45,58,34,9
+6,Multiple Languages,10,14,50,47,25,10
+7,Low False Positives,3,8,21,66,49,9
+8,Low False Negatives,5,3,22,65,51,10
+9,Broadly Cover Issues,1,4,16,62,63,10
+10,Understandable Reports,1,3,21,60,62,9

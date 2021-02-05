@@ -1,0 +1,27 @@
+
+# What the repo includes:
+1) Codebook of interviews as card sorting results (PDF);  
+2) Scripts to reproduce the figures in the paper (R). 
+
+# How to find other artifacts online:
+
+http://doi.org/10.5281/zenodo.4005112 
+
+The link is provided as a footnote in the manuscript.
+
+
+# What the artifacts do:
+
+The artifact includes:
+1) an interview guide that we used for our semi-structured interviews (PDF);
+> Note that the transcripts cannot be part of the artifact according the confidentiality and privacy clauses as specified in our IRB.
+2) a questionnaire that we used for our online survey (PDF);
+3) the valid responses of our online survey (CSV).
+
+# How to use the artifacts:
+
+As for the interview guide and questionnaire, future work could:
+1) conduct an exploratory study to investigate security practices of some domains other than smart contracts by using or modifying our interview guide and questionnaire;
+2) extend our study by looking at other aspects related to smart contracts.
+
+As for the valid responses, future work could extend our study by building models for the survey responses to dig for more findings and implications.
